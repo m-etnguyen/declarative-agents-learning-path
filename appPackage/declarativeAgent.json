@@ -4,4 +4,11 @@
     "name": "da-product-support",
     "description": "Declarative agent created with Teams Toolkit",
     "instructions": "$[file('instruction.txt')]"
+
+    "conversation_starters": [
+      {
+        "title": "Product Launch KPI",
+        "text": "What are the key performance indicators for our product launch?"
+      }
+    ]
 }
